@@ -25,7 +25,9 @@ public class LqDFxsWaxedWorkstationsClient {
     @SubscribeEvent
     static void onClientSetup(FMLClientSetupEvent event) {
         // Some client setup code
+        /*
         LqDFxsWaxedWorkstations.LOGGER.info("HELLO FROM CLIENT SETUP");
         LqDFxsWaxedWorkstations.LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
+         */
     }
 }
