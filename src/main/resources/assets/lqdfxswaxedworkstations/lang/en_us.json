@@ -1,14 +1,4 @@
 {
   "lqdfxswaxedworkstations.display.wax_on": "Workstation POI disabled",
-  "lqdfxswaxedworkstations.display.wax_off": "Workstation POI restored",
-
-  "lqdfxswaxedworkstations.configuration.title": "LqDFx's WaxedWorkstations Configs",
-  "lqdfxswaxedworkstations.configuration.section.lqdfxswaxedworkstations.common.toml": "LqDFx's WaxedWorkstations Configs",
-  "lqdfxswaxedworkstations.configuration.section.lqdfxswaxedworkstations.common.toml.title": "LqDFx's WaxedWorkstations Configs",
-  "lqdfxswaxedworkstations.configuration.items": "Item List",
-  "lqdfxswaxedworkstations.configuration.logDirtBlock": "Log Dirt Block",
-  "lqdfxswaxedworkstations.configuration.magicNumberIntroduction": "Magic Number Text",
-  "lqdfxswaxedworkstations.configuration.magicNumber": "Magic Number"
-
-
+  "lqdfxswaxedworkstations.display.wax_off": "Workstation POI restored"
 }
